@@ -29,3 +29,5 @@ async def main():
 
 # Chạy hàm chính
 asyncio.run(main())
+
+print("test")
